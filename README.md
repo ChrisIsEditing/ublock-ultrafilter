@@ -2,9 +2,10 @@
 Do you hate using like 40 filter lists? What if you were fucking stupid and just wanted one whole list because you hate how shitty modern websites are.
 HELLO! I'M CHRIBS! And today, I'd like to give you just that!
 
-This text list featuring every uBlock Origin filter used by Chribs. Use at own risk.
+This text list featuring every uBlock Origin filter used by Chribs (me, yes, hello again). 
 This has been optimised for firefox (latest stable) and may yeild shitty results in some places, fear not, just simply open an issue, and i'll fix it.
 How convenient is that?
+Use at own risk!
 
 ## WHAT IT BLOCKS:
 
